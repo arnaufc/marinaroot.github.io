@@ -143,6 +143,10 @@ body,
   border-bottom-color: black;
 }
 
+.reveal .progress {
+  pointer-events: none;
+}
+
 .reveal .progress span {
   background: #62606f;
 }
